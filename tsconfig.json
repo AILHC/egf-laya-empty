@@ -1,0 +1,12 @@
+{
+  
+  "compilerOptions": {
+    "moduleResolution": "Node",  
+    "module": "ES6",
+    "target": "ES6",
+    "noEmitHelpers": true,
+    "sourceMap": false
+  },
+  "exclude": [
+  ]
+}

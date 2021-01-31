@@ -1,0 +1,13 @@
+{
+  "name": "egf-laya-empty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@ailhc/egf-core": "1.0.0",
+    "tslib": "^2.1.0"
+  },
+  "devDependencies": {
+    "rollup-plugin-node-resolve": "^5.2.0"
+  }
+}
